@@ -1,0 +1,9 @@
+transformers
+python-dotenv
+torch
+peft
+datasets
+Flask
+pyttsx3
+speechrecognition
+langdetect
